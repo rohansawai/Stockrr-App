@@ -20,7 +20,7 @@
 <br>
 
 <ul>
-  <li>[Riya Gupta](https://github.com/RiyaGupta99)</li>
+  <li> [Riya Gupta](https://github.com/RiyaGupta99) </li>
 </ul>
 
 <br>
@@ -75,7 +75,7 @@ This project can be used by Banks, Brokarage houses and also Retail Traders to u
 <ol>
   <li>[Rohan Sawai](https://github.com/rohansawai): It was an incredible experience for me. I got to learn how Machine Learning and Artificial intelligence can be used in Finance. Working on this project helped me improve my skills such as time-management, effective-communicaton. I would also thank our mentor for guiding us at every problem. Overall, it was an amazing experience.</li>
   <li>[Santanu Kumar](https://github.com/santanukumar666): I had a great time working on this project. I got familiar with many concepts of Machine Learning and Finance. It was fun working with different ML models, eliminating errors, and improving accuracies. Further, close coordination and communication with my team members and mentor helped us complete this project and I would like to thank them all for guiding me and providing me with the resources.</li>
-  <li>[Vishal Patil](https://github.com/SpecTEviL): Learnt a lot on how ML models work and Web Development along with app deployment. It helped me grow my skills in these domains and gained some hands-on experience. Working in a team thought me many lessons. Getting the work done on time and stepping-up in unprecedented times. The mentor helped and kept us all motivated throughout the project. A special thanks to her for this. A big thank you to DSC-VJTI and COC-VJTI for organising this program. It was a great experience working with this team and getting this project completed on time.</li>
+  <li> [Vishal Patil](https://github.com/SpecTEviL): Learnt a lot on how ML models work and Web Development along with app deployment. It helped me grow my skills in these domains and gained some hands-on experience. Working in a team thought me many lessons. Getting the work done on time and stepping-up in unprecedented times. The mentor helped and kept us all motivated throughout the project. A special thanks to her for this. A big thank you to DSC-VJTI and COC-VJTI for organising this program. It was a great experience working with this team and getting this project completed on time.</li>
   <li>[Shivam Karpe](https://github.com/shivamk19): Working on this Project was a great experience as I learnt how ML works and what keeps the model work so accurately. It gave me a lot more idea of what we can do with the help of Internet and how the financial world may work in the coming years. This helped me to learn how to work with different platforms effectively and efficiently.</li>
 </ol>  
 
