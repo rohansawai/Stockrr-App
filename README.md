@@ -6,22 +6,20 @@
 
 <br>
 
-<ul>
-  <li>[Rohan Sawai](https://github.com/rohansawai)</li>
-  <li>[Santanu Kumar](https://github.com/santanukumar666)</li>
-  <li>[Vishal Patil](https://github.com/SpecTEviL)</li>
-  <li>[Shivam Karpe](https://github.com/shivamk19)</li>
-</ul>
+
+1.  [Rohan Sawai](https://github.com/rohansawai)
+2.  [Santanu Kumar](https://github.com/santanukumar666)
+3.  [Vishal Patil](https://github.com/SpecTEviL)
+4.  [Shivam Karpe](https://github.com/shivamk19)
+
 
 <br>
 
 # 👩‍🏫Mentors
 
 <br>
+1. [Riya Gupta](https://github.com/RiyaGupta99)
 
-<ul>
-  <li> [Riya Gupta](https://github.com/RiyaGupta99) </li>
-</ul>
 
 <br>
 
@@ -34,13 +32,13 @@ In this project, we aim to predict the future price of any desired stock/commodi
 </p>
 
 <p>
-The project works in a very easy way, a user has to enter the Symbol of the company they want the stock price to be predicted. The symbol can be found  (here)[https://in.finance.yahoo.com/]. The algorithm then fetches the Historical Data of that stock from the Yahoo Finance API and makes the prediction for the next upcoming day.
+The project works in a very easy way, a user has to enter the Symbol of the company they want the stock price to be predicted. The symbol can be found  [here](https://in.finance.yahoo.com/) . The algorithm then fetches the Historical Data of that stock from the Yahoo Finance API and makes the prediction for the next upcoming day.
 </p>
 
-<ul>
-  <li>🔗Website link : (stockrr-app.herokuapp.com)[stockrr-app.herokuapp.com]<li/>
-  <li>🔗GitHub repo link : (Link to repository)[https://github.com/rohansawai/Stockrr-App]</li>
-</ul>
+
+1. 🔗Website link : [stockrr-app.herokuapp.com](stockrr-app.herokuapp.com)
+2. 🔗GitHub repo link : [Link to repository](https://github.com/rohansawai/Stockrr-App)
+
 
 <br>
 
@@ -72,12 +70,11 @@ This project can be used by Banks, Brokarage houses and also Retail Traders to u
 
 <br>
 
-<ol>
-  <li>[Rohan Sawai](https://github.com/rohansawai): It was an incredible experience for me. I got to learn how Machine Learning and Artificial intelligence can be used in Finance. Working on this project helped me improve my skills such as time-management, effective-communicaton. I would also thank our mentor for guiding us at every problem. Overall, it was an amazing experience.</li>
-  <li>[Santanu Kumar](https://github.com/santanukumar666): I had a great time working on this project. I got familiar with many concepts of Machine Learning and Finance. It was fun working with different ML models, eliminating errors, and improving accuracies. Further, close coordination and communication with my team members and mentor helped us complete this project and I would like to thank them all for guiding me and providing me with the resources.</li>
-  <li> [Vishal Patil](https://github.com/SpecTEviL): Learnt a lot on how ML models work and Web Development along with app deployment. It helped me grow my skills in these domains and gained some hands-on experience. Working in a team thought me many lessons. Getting the work done on time and stepping-up in unprecedented times. The mentor helped and kept us all motivated throughout the project. A special thanks to her for this. A big thank you to DSC-VJTI and COC-VJTI for organising this program. It was a great experience working with this team and getting this project completed on time.</li>
-  <li>[Shivam Karpe](https://github.com/shivamk19): Working on this Project was a great experience as I learnt how ML works and what keeps the model work so accurately. It gave me a lot more idea of what we can do with the help of Internet and how the financial world may work in the coming years. This helped me to learn how to work with different platforms effectively and efficiently.</li>
-</ol>  
+1. [Rohan Sawai](https://github.com/rohansawai): It was an incredible experience for me. I got to learn how Machine Learning and Artificial intelligence can be used in Finance. Working on this project helped me improve my skills such as time-management, effective-communicaton. I would also thank our mentor for guiding us at every problem. Overall, it was an amazing experience.
+2. [Santanu Kumar](https://github.com/santanukumar666): I had a great time working on this project. I got familiar with many concepts of Machine Learning and Finance. It was fun working with different ML models, eliminating errors, and improving accuracies. Further, close coordination and communication with my team members and mentor helped us complete this project and I would like to thank them all for guiding me and providing me with the resources.
+3. [Vishal Patil](https://github.com/SpecTEviL): Learnt a lot on how ML models work and Web Development along with app deployment. It helped me grow my skills in these domains and gained some hands-on experience. Working in a team thought me many lessons. Getting the work done on time and stepping-up in unprecedented times. The mentor helped and kept us all motivated throughout the project. A special thanks to her for this. A big thank you to DSC-VJTI and COC-VJTI for organising this program. It was a great experience working with this team and getting this project completed on time.
+4. [Shivam Karpe](https://github.com/shivamk19): Working on this Project was a great experience as I learnt how ML works and what keeps the model work so accurately. It gave me a lot more idea of what we can do with the help of Internet and how the financial world may work in the coming years. This helped me to learn how to work with different platforms effectively and efficiently.
+ 
 
 <br>
 
@@ -102,10 +99,10 @@ We would like to thank [Riya Gupta](https://github.com/RiyaGupta99) for mentorin
 <br>
 
 # 🖼Screenshots
-<ol>
-  <li>![image](https://user-images.githubusercontent.com/62415467/127650272-fc44c6b1-244c-4b5f-ba95-9eb0adf4cc48.png)</li>
-  <li>![image](https://user-images.githubusercontent.com/62415467/127650315-e634eb73-aac0-447f-8ac4-96712dde3ed3.png)</li>
-  <li>![image](https://user-images.githubusercontent.com/62415467/127650378-d00211be-a417-40de-a462-9209fc825893.png)</li>
-</ol>
 
+<br>
+
+1. <img src="https://user-images.githubusercontent.com/62415467/127650272-fc44c6b1-244c-4b5f-ba95-9eb0adf4cc48.png" >
+2. <img src="https://user-images.githubusercontent.com/62415467/127650315-e634eb73-aac0-447f-8ac4-96712dde3ed3.png" >
+3. <img src="https://user-images.githubusercontent.com/62415467/127650378-d00211be-a417-40de-a462-9209fc825893.png" >
 
